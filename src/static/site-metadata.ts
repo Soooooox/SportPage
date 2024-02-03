@@ -10,18 +10,18 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: 'Sport Page',
+  siteUrl: 'https://soooooox.github.io/HomePage/content/sport/sport.html',
+  logo: 'https://soooooox.github.io/HomePage/images/avatar.png',
+  description: 'Personal sport site',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      name: 'Home',
+      url: 'https://soooooox.github.io/HomePage/',
     },
     {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      name: 'Sport',
+      url: 'https://soooooox.github.io/HomePage/content/sport/sport.html',
     },
   ],
 };
